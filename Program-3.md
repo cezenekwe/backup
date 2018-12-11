@@ -1,5 +1,5 @@
 |  Course     | Instructor                 | Cost                       | Schedule                 | Register
-| -------------------------- |:--------------------------:| --------------------------:|--------------------------:|-----------------
+|:----------:|:---------------:|:-----:|:-------------------:|:-------------------:|
 | - [CYB 6000](http://www.wilmu.edu/courses/syllabipdf/CYB6030.pdf)                 | [Drew Brees](https://www.linkedin.com/in/drew-brees-167546113/)                 | $1600                      |Wednesday                 |[Register for class?](https://github.com/cezenekwe/Agileteam/blob/master/confirmation%20test%20file)
 | - [CYB 6010](http://www.wilmu.edu/courses/syllabipdf/CYB6030.pdf)                | [Dan Mario](https://www.linkedin.com/in/dan-mario-34b005101/)                 | $1600                      |Tuesday                   |[Register for class?](https://github.com/cezenekwe/Agileteam/blob/master/confirmation%20test%20file)
 | - [SEC 6010](http://www.wilmu.edu/courses/syllabipdf/CYB6030.pdf)                 | [Bret Favre](https://www.linkedin.com/in/brett-favre-0b4b51152/)                 | $1400                      |Friday                    |[Register for class?](https://github.com/cezenekwe/Agileteam/blob/master/confirmation%20test%20file)
