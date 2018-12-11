@@ -6,21 +6,6 @@
 <br/>
 [INFORMATION ASSURANCE](Program-1.md)
 
-<br>
-[PROJECT MANAGMENT](Program-2.md)
-<br>
-[CYBER SECURITY](Program-3.md)
-<br/>
-
-
-
-
-CONFIRMED!!
-
-## Master Programs
-<br/>
-[INFORMATION ASSURANCE](Program-1.md)
-
 - This course provides an overview of the fields of IT Security, Information Assurance and Risk Management. IT Security and Information Assurance are concerned with threats to the Confidentiality, Integrity and Availability (CIA) of information systems 
 
 [PROJECT MANAGMENT](Program-2.md)
