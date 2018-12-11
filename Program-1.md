@@ -1,3 +1,5 @@
+![capture1](https://user-images.githubusercontent.com/44885441/48521130-2ff67780-e841-11e8-8efa-807518dbd66f.PNG)
+
 |  Course     | Instructor                 | Cost                       | Schedule                 | Register
 |:----------:|:---------------:|:-----:|:-------------------:|:-------------------:|
 |[SEC 6050](http://www.wilmu.edu/courses/syllabipdf/SEC6050.pdf)| [Mario Yepes](https://www.linkedin.com/in/mario-j-yepes-51092b33/)    | $1600                      |Wednesday / Tuesday       | [Register for class? Click here](SEC6050confirmation.md)
