@@ -1,5 +1,5 @@
 |  Course        | Instructor                  | Cost                       | Schedule                 | Register
-| -------------------------- |:--------------------------:| --------------------------:|--------------------------:|-----------------
+|:----------:|:---------------:|:-----:|:-------------------:|:-------------------:|
 | - [IPM 6000](http://www.wilmu.edu/courses/syllabipdf/IPM6000.pdf)                | [Mike Tyson](https://www.linkedin.com/in/mike-tyson-258351b2/)                 | $1600                      |Monday / Tuesday          |[Register for class?](https://github.com/cezenekwe/Agileteam/blob/master/confirmation%20test%20file)
 | - [IPM 6020](http://www.wilmu.edu/courses/syllabipdf/IPM6000.pdf)               | [Edward Mc Keown](https://www.linkedin.com/in/doctor-edward/)            | $1600                      |Thursday                  |[Register for class?](https://github.com/cezenekwe/Agileteam/blob/master/confirmation%20test%20file)
 | - [IPM 6010](http://www.wilmu.edu/courses/syllabipdf/IPM6010.pdf)                | [Lebron Jackson](https://www.linkedin.com/in/lebron-jackson-909631160/)             | $1400                      |Wednesday/ Friday         |[Register for class?](https://github.com/cezenekwe/Agileteam/blob/master/confirmation%20test%20file)
