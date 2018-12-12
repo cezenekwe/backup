@@ -5,6 +5,8 @@
 ## Master Programs
 <br/>
 
+[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
+
 [INFORMATION ASSURANCE](Program-1.md)
 
 - This course provides an overview of the fields of IT Security, Information Assurance and Risk Management. IT Security and Information Assurance are concerned with threats to the Confidentiality, Integrity and Availability (CIA) of information systems 
