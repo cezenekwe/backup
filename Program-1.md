@@ -9,4 +9,4 @@
 |[SEC 6060](http://www.wilmu.edu/courses/syllabipdf/SEC6060.pdf)                | [Beverly Flowers](https://www.linkedin.com/in/beverly-maier-559288121/)            | $1400                      |Thursday                  |[Register for class? Click here](SEC6060confirmation.md)
 
 
-[home](https://github.com/cezenekwe/backup)
+[home](https://cezenekwe.github.io/backup/)
