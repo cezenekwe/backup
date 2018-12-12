@@ -8,3 +8,6 @@ CONFIRMED!!
 |- IPM 6000 | Mike Tyson      | $1600 | Monday / Tuesday 
 
 Thank you registering for this class . Confirmation sent to your email shortly – Have a nice day!
+
+[home](https://cezenekwe.github.io/backup/)
+[back](https://cezenekwe.github.io/backup/Program-2.html)
