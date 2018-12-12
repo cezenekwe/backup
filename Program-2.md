@@ -7,3 +7,5 @@
 |[IPM 6010](http://www.wilmu.edu/courses/syllabipdf/IPM6010.pdf)| [Lebron Jackson](https://www.linkedin.com/in/lebron-jackson-909631160/)             | $1400                      |Wednesday/ Friday         |[Register for class? Click here](IPM6010confirmation.md)
 |[IPM 6030](http://www.wilmu.edu/courses/syllabipdf/IPM6030.pdf) | [Paul Curry](https://www.linkedin.com/in/paul-curry-98198124/)                 | $1400                      |Monday                    |[Register for class? Click here](IPM6030confirmation.md)
 |[IPM 6050](http://www.wilmu.edu/courses/syllabipdf/IPM6050.pdf)| [Samantha Keys](https://www.linkedin.com/in/samanthafernandez/)              | $1400                      |Wednesday /Thursday       |[Register for class? Click here](IPM6050confirmation.md)
+
+[home](https://cezenekwe.github.io/backup/
