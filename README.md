@@ -5,7 +5,7 @@
 ## Master Programs
 <br/>
 
-[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Click to watch promotion video")
+[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=2YAptB1_6uQ "Click to watch promotion video")
 
 [INFORMATION ASSURANCE](Program-1.md)
 
