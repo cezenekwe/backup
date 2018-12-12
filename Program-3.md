@@ -7,3 +7,5 @@
 |[SEC 6010](http://www.wilmu.edu/courses/syllabipdf/CYB6030.pdf)                 | [Bret Favre](https://www.linkedin.com/in/brett-favre-0b4b51152/)                 | $1400                      |Friday                    |[Register for class? Click here](SEC6010confirmation.md)
 |[SEC 6030](http://www.wilmu.edu/courses/syllabipdf/CYB6030.pdf)                 | [John Elway](https://www.linkedin.com/in/john-elway-02845121/)                 | $1400                      |Monday                    |[Register for class? Click here](SEC6030confirmation.md)
 |[SEC 6060](http://www.wilmu.edu/courses/syllabipdf/CYB6030.pdf)                 | [Steve Young](https://www.linkedin.com/in/steve-young-10847445/)                | $1400                      |Thursday                  |[Register for class? Click here](SEC6060confirmation.md)
+
+[home](https://cezenekwe.github.io/backup/
