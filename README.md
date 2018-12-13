@@ -1,14 +1,9 @@
 # Welcome to Wilmington University
 
-![capture1](https://user-images.githubusercontent.com/44885441/48521130-2ff67780-e841-11e8-8efa-807518dbd66f.PNG)
+[![capture1](https://user-images.githubusercontent.com/44885441/48521130-2ff67780-e841-11e8-8efa-807518dbd66f.PNG)](https://www.youtube.com/watch?v=2YAptB1_6uQ "Click to watch AGILETEAM promotional video")
 
 ## Master Programs
 <br/>
-
-[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=2YAptB1_6uQ "Click to watch AGILETEAM promotional video")
-
-[![capture1](https://user-images.githubusercontent.com/44885441/48521130-2ff67780-e841-11e8-8efa-807518dbd66f.PNG)](https://www.youtube.com/watch?v=2YAptB1_6uQ "Click to watch AGILETEAM promotional video")
-
 
 [INFORMATION ASSURANCE](Program-1.md)
 
